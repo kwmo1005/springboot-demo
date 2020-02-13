@@ -39,9 +39,4 @@ public class StudentController {
         System.out.println("这是master");
         return student;
     }
-
-
-
-
-
 }

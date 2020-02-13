@@ -222,3 +222,4 @@ java.lang.IllegalStateException: Optional int parameter 'id' is present but cann
 2020/02/12-14:56 [http-nio-8899-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- FrameworkServlet 'dispatcherServlet': initialization started
 2020/02/12-14:56 [http-nio-8899-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet- FrameworkServlet 'dispatcherServlet': initialization completed in 109 ms
 2020/02/12-14:56 [http-nio-8899-exec-1] INFO  com.wiggin.springboot.demo.aspect.ControllerAspect- 测试切面com.wiggin.springboot.demo.controller.StudentController1
+2020/02/12-15:59 [http-nio-8899-exec-5] INFO  com.wiggin.springboot.demo.aspect.ControllerAspect- 测试切面com.wiggin.springboot.demo.controller.StudentController1
